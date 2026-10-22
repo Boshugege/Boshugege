@@ -12,7 +12,6 @@
 | Project | What it is |
 | --- | --- |
 | [zhaji](https://github.com/Boshugege/typst-zhaji) | A restrained Typst template for lecture notes and books, on [Typst Universe](https://typst.app/universe/package/zhaji) |
-| [singbox-config-publisher](https://github.com/Boshugege/singbox-config-publisher) | Self-hosted service that turns proxy subscriptions into validated sing-box client profiles |
 | [video-gen](https://github.com/Boshugege/video-gen) | Offline short-video renderer: Canvas frame by frame, Web Audio synthesis, ffmpeg muxing |
 | [cg-from-scratch](https://github.com/Boshugege/cg-from-scratch) | A minimal cross-platform CPU renderer in C++17 |
 
