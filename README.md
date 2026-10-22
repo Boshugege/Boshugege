@@ -3,8 +3,8 @@
 ✍️ Blog: [parityncsvt.top](https://parityncsvt.top)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=Boshugege&show_icons=true&show=contributions,prs_merged&hide=issues&theme=dark_github" />
-  <img alt="Boshugege's GitHub stats" src="https://github-stats-extended.vercel.app/api?username=Boshugege&show_icons=true&show=contributions,prs_merged&hide=issues&theme=light_github" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=Boshugege&show_icons=true&show=contributions%2Cprs_merged&hide=issues&theme=dark_github" />
+  <img alt="Boshugege's GitHub stats" src="https://github-stats-extended.vercel.app/api?username=Boshugege&show_icons=true&show=contributions%2Cprs_merged&hide=issues&theme=light_github" />
 </picture>
 
 #### Things I made
